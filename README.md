@@ -60,7 +60,7 @@
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/FaceTrace-AI.git
+   git clone https://github.com/Md-Arif-Hasnat99/FaceTrace-AI.git
    cd FaceTrace-AI
    ```
 
