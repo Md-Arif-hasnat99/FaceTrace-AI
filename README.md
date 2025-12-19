@@ -12,16 +12,26 @@
 ## 📸 Preview
 
 <p align="center">
-  <img src="screenshots/dashboard.png" alt="FaceTrace AI Dashboard" width="800"/>
+  <img src="screenshots/image.png" alt="FaceTrace AI Dashboard" width="800"/>
 </p>
 
 *FaceTrace AI Dashboard - Clean, minimal interface with blue-gray theme*
 
 ---
 
-## �📋 Overview
+## 📋 Overview
 
-**FaceTrace AI** is an AI-powered application to help locate missing persons using facial recognition technology. This project leverages **MediaPipe Face Mesh** for accurate facial landmark detection and matching, making it easier for law enforcement, NGOs, and the public to assist in finding missing individuals.tial matches |
+**FaceTrace AI** is an AI-powered application to help locate missing persons using facial recognition technology. This project leverages **MediaPipe Face Mesh** for accurate facial landmark detection and matching, making it easier for law enforcement, NGOs, and the public to assist in finding missing individuals.
+
+---
+
+## ✨ Key Features
+
+| Feature | Description |
+|---------|-------------|
+| 🔍 **Face Mesh Detection** | Extracts 468 facial landmarks using MediaPipe for accurate identification |
+| 📝 **Case Registration** | Register missing persons with photos and detailed information |
+| 🎯 **AI Matching** | Automatically match submitted photos against registered cases |
 | 📱 **Mobile Support** | Dedicated mobile app for public submissions and sighting reports |
 | 💾 **Lightweight Database** | SQLite-based storage for easy deployment and portability |
 | 📊 **Dashboard** | View and manage all registered cases with status tracking |
